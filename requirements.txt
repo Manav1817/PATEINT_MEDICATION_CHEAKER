@@ -1,5 +1,0 @@
-streamlit>=1.50
-scikit-learn
-pandas
-numpy
-joblib
