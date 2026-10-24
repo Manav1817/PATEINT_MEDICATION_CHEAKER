@@ -1,0 +1,1 @@
+record_id,timestamp,patient_name,doctor_name,age,gender,pregnant,kidney_disease,liver_disease,allergies,previous_medicines,prescribed_medicine,diagnosis_notes,verdict,ml_prob_safe,reasons
